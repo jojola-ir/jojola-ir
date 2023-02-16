@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irina !</h1>
 <h3 align="center">A passionate data scientist student from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojola-ir" alt="jojola-ir" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@kays_rook" target="blank"><img src="https://img.shields.io/twitter/follow/@kays_rook?logo=twitter&style=for-the-badge" alt="@kays_rook" /></a> </p>
 
 - 🔭 I’m currently working on [multitask learning](https://github.com/jojola-ir/multitask_segmentation)
