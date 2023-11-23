@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/@kays_rook" target="blank"><img src="https://img.shields.io/twitter/follow/@kays_rook?logo=twitter&style=for-the-badge" alt="@kays_rook" /></a> </p>
 
-- 🔭 I’m currently working on [multitask learning](https://github.com/jojola-ir/multitask_segmentation)
+- 🔭 I’m currently working on [federated learning](https://github.com/ThalesGroup/pybiscus)
 
-- 🌱 I’m currently learning **deep learning and computer vision**
+- 🌱 My currently research field is **deep learning based medical imaging**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jojola-ir?tab=repositories](https://github.com/jojola-ir?tab=repositories)
 
